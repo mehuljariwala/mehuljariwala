@@ -1,4 +1,4 @@
-### Hi I'm Mehul 👋 💻
+### <h2> Hi I'm Mehul  👋 💻 </h2>
 
 - I’m currently working on React and Node.🔭
 - I’m currently learning how to make product more powerful.🤔
