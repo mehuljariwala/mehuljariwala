@@ -3,7 +3,7 @@
 - I’m currently working on React and Node. 🔭
 - I’m currently learning how to make product more powerful.🤔
 - I’m looking to collaborate n serval open source projects.👯💬
-- I'm open to work with any freelancer project and i whould like to help other developer.
+- I'm also currently **available** for new projects.
 - My interest in make open source library that can help developerto grow and scale.
 - Fun fact about me is i am not drink coffee at all.😄
 
