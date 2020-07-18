@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi I'm Mehul 👋 💻
+
+- I’m currently working on React and Node. 🔭
+- I’m currently learning how to make product more powerful.🤔
+- I’m looking to collaborate n serval open source projects.👯💬
+- I'm open to work with any freelancer project and i whould like to help other developer.
+- My interest in make open source library that can help developerto grow and scale.
+- Fun fact about me is i am not drink coffee at all.😄
 
 <!--
 **mehuljariwala/mehuljariwala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
