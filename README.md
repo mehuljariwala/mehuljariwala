@@ -9,8 +9,9 @@
 
  ### <h3> Find me around the web : </h3>
 
+* https://sleepy-banach-402063.netlify.app
 * https://github.com
-* https://www.linkedin.com/in/mehul-jariwala-352a01132/
+* https://www.linkedin.com/in/mehul-jariwala-352a01132
 
 <!--
 **mehuljariwala/mehuljariwala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
