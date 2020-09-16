@@ -9,7 +9,7 @@
 
  ### <h3> Find me around the web : </h3>
 
-* https://sleepy-banach-402063.netlify.app
+* https://mehul-jariwala-site.vercel.app
 * https://github.com
 * https://www.linkedin.com/in/mehul-jariwala-352a01132
 
