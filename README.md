@@ -5,7 +5,6 @@
 - I’m looking to collaborate n serval open source projects.👯💬
 - I'm also currently **available** for new projects.😎
 - My interest in make open source library that can help developer to grow and scale.🚀
-- Fun fact about me is i am not drink coffee at all.😄
 
  ### <h3> Find me around the web : </h3>
 
