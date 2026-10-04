@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="260" viewBox="0 0 600 260" role="img" aria-labelledby="title">
+  <title id="title">Mehul Jariwala — Full-stack engineering and applied AI</title>
+  <style>
+    .signal { stroke-dasharray: 8 28; animation: signal-flow 4.8s linear 1; }
+    .signal-delayed { animation-direction: reverse; }
+    .junction-halo { transform-origin: 1000px 178px; animation: junction-breathe 4.8s ease-in-out 1; }
+    .edge-highlight { animation: edge-travel 4.8s ease-in-out 1; }
+    @keyframes signal-flow { to { stroke-dashoffset: -72; } }
+    @keyframes junction-breathe {
+      0%, 100% { opacity: .12; transform: scale(1); }
+      50% { opacity: .42; transform: scale(1.5); }
+    }
+    @keyframes edge-travel {
+      0%, 10% { transform: translateX(-180px); opacity: 0; }
+      20% { opacity: .85; }
+      75% { opacity: .85; }
+      90%, 100% { transform: translateX(780px); opacity: 0; }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .signal, .junction-halo, .edge-highlight { animation: none; }
+      .signal, .junction-halo, .edge-highlight { display: none; }
+    }
+  </style>
+  <rect width="600" height="260" rx="16" fill="#0c151d"/>
+  <rect x="30" y="33" width="40" height="4" rx="2" fill="#b8f06b"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="28" y="107" font-size="55" font-weight="700" letter-spacing="-1.8" fill="#f4f7fa">Mehul Jariwala</text>
+    <text x="30" y="159" font-size="25" fill="#b8f06b">Full-stack engineering.</text>
+    <text x="30" y="193" font-size="25" fill="#b8f06b">Applied AI.</text>
+  </g>
+  <path d="M0 244H600" stroke="#b8f06b" stroke-width="3"/>
+  <rect class="edge-highlight" x="0" y="242" width="110" height="4" rx="2" fill="#efffcf" opacity="0"/>
+</svg>

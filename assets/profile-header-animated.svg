@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
+  <title id="title">Mehul Jariwala — Full-stack engineering and applied AI</title>
+  <desc id="desc">I build the product and the systems behind it. Interfaces, APIs, retrieval, agents, and evaluation.</desc>
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#263643" stroke-width="1"/></pattern>
+    <linearGradient id="panel" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#15232f"/><stop offset="1" stop-color="#0c151d"/></linearGradient>
+  </defs>
+  <style>
+    .signal { stroke-dasharray: 8 28; animation: signal-flow 4.8s linear 1; }
+    .signal-delayed { animation-direction: reverse; }
+    .junction-halo { transform-origin: 1000px 178px; animation: junction-breathe 4.8s ease-in-out 1; }
+    .edge-highlight { animation: edge-travel 4.8s ease-in-out 1; }
+    @keyframes signal-flow { to { stroke-dashoffset: -72; } }
+    @keyframes junction-breathe {
+      0%, 100% { opacity: .12; transform: scale(1); }
+      50% { opacity: .42; transform: scale(1.5); }
+    }
+    @keyframes edge-travel {
+      0%, 10% { transform: translateX(-180px); opacity: 0; }
+      20% { opacity: .85; }
+      75% { opacity: .85; }
+      90%, 100% { transform: translateX(1380px); opacity: 0; }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .signal, .junction-halo, .edge-highlight { animation: none; }
+      .signal, .junction-halo, .edge-highlight { display: none; }
+    }
+  </style>
+  <rect width="1200" height="380" rx="20" fill="#0c151d"/>
+  <rect x="755" y="0" width="445" height="380" rx="20" fill="url(#grid)" opacity=".55"/>
+  <path d="M0 362H1200" stroke="#b8f06b" stroke-width="3"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <rect x="48" y="40" width="38" height="4" rx="2" fill="#b8f06b"/>
+    <text x="48" y="83" fill="#b8f06b" font-size="16" letter-spacing="2.4">FULL-STACK ENGINEERING / APPLIED AI</text>
+    <text x="45" y="158" fill="#f4f7fa" font-size="62" font-weight="700" letter-spacing="-2">Mehul Jariwala</text>
+    <text x="48" y="212" fill="#c4d0db" font-size="24">I build the product</text>
+    <text x="48" y="246" fill="#c4d0db" font-size="24">and the systems behind it.</text>
+    <text x="48" y="320" fill="#92a5b6" font-size="15" letter-spacing="1.2">BENGALURU, INDIA</text>
+    <text x="628" y="320" fill="#b8f06b" font-size="15">mehuljari.in</text>
+    <g stroke="#47616d" stroke-width="2" fill="none">
+      <path d="M870 108V178H1000V244"/>
+      <path d="M1050 108V178H1000"/>
+      <path d="M905 280H841V178H870" stroke-dasharray="5 6"/>
+    </g>
+    <g stroke="#b8f06b" stroke-width="2" stroke-linecap="round" fill="none" opacity=".8">
+      <path class="signal" d="M870 130V178H1000V244"/>
+      <path class="signal signal-delayed" d="M1050 130V178H1000"/>
+      <path class="signal signal-delayed" d="M905 280H841V178H870"/>
+    </g>
+    <circle class="junction-halo" cx="1000" cy="178" r="14" fill="none" stroke="#b8f06b" stroke-width="2" opacity=".12"/>
+    <g fill="url(#panel)" stroke="#3b515e">
+      <rect x="785" y="58" width="170" height="72" rx="12"/>
+      <rect x="970" y="58" width="170" height="72" rx="12"/>
+      <rect x="905" y="244" width="220" height="74" rx="12" stroke="#b8f06b"/>
+    </g>
+    <text x="808" y="88" fill="#92a5b6" font-size="12" letter-spacing="1.2">PRODUCT</text>
+    <text x="808" y="112" fill="#edf4f8" font-size="17">Interfaces + APIs</text>
+    <text x="991" y="88" fill="#92a5b6" font-size="12" letter-spacing="1.2">INTELLIGENCE</text>
+    <text x="991" y="112" fill="#edf4f8" font-size="17">Retrieval + agents</text>
+    <circle cx="1000" cy="178" r="7" fill="#b8f06b"/>
+    <text x="930" y="275" fill="#b8f06b" font-size="12" letter-spacing="1.2">FEEDBACK</text>
+    <text x="930" y="301" fill="#edf4f8" font-size="17">Evaluate. Refine. Ship.</text>
+  </g>
+  <rect class="edge-highlight" x="0" y="360" width="110" height="4" rx="2" fill="#efffcf" opacity="0"/>
+</svg>

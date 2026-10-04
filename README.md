@@ -1,7 +1,9 @@
 <p align="center">
   <picture>
-    <source media="(max-width: 600px)" srcset="./assets/profile-header-mobile.svg" />
-  <img src="./assets/profile-header.svg" width="100%" alt="Mehul Jariwala — Full-stack engineering and applied AI. I build the product and the systems behind it." />
+    <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="./assets/profile-header-mobile.svg" />
+    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/profile-header.svg" />
+    <source media="(max-width: 600px)" srcset="./assets/profile-header-mobile-animated.svg" />
+  <img src="./assets/profile-header-animated.svg" width="100%" alt="Mehul Jariwala — Full-stack engineering and applied AI. I build the product and the systems behind it." />
   </picture>
 </p>
 
