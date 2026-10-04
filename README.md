@@ -1,97 +1,96 @@
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F172A,50:7C3AED,100:0891B2&amp;height=230&amp;section=header&amp;text=MEHUL%20JARIWALA&amp;fontSize=48&amp;fontColor=FFFFFF&amp;fontAlignY=38&amp;desc=FULL%20STACK%20ENGINEERING%20%20%7C%20%20APPLIED%20AI&amp;descSize=16&amp;descAlignY=58&amp;animation=fadeIn" alt="Mehul Jariwala — Full Stack Engineering and Applied AI" />
-
-# From zero to product. From data to intelligence.
-
-<a href="https://mehuljari.in">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;duration=3000&amp;pause=1200&amp;color=0891B2&amp;center=true&amp;vCenter=true&amp;width=700&amp;height=55&amp;lines=Full-stack+builder.+AI+engineer.;Building+Legal+AI+at+Fasteroutcomes.;From+the+first+interface+to+the+AI+workflow.;Making+complexity+feel+simple.&amp;repeat=true" alt="Full-stack builder. AI engineer. Building Legal AI at Fasteroutcomes. Making complexity feel simple." width="700" />
-</a>
-
-**Lead Full Stack & AI/ML Engineer · Founding Engineer · University Gold Medalist**
-
-I turn complex workflows into software people can use — connecting interfaces, backend systems, and AI.
-
-[![Portfolio](https://img.shields.io/badge/Explore_my_work-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mehuljari.in)
-[![LinkedIn](https://img.shields.io/badge/Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehul-jariwala-352a01132/)
-[![Medium](https://img.shields.io/badge/Read_my_writing-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mjariwala98)
-
-</div>
-
----
-
-## ⚡ I build where product, engineering, and AI meet
-
-I'm a **Lead Full Stack + AI/ML Founding Engineer at [Fasteroutcomes](https://fasteroutcomes.com)**, building Legal AI that helps turn complex documents into useful insights and supports research and case preparation.
-
-I've built across two very different environments: the early decisions of founding engineering roles at **Fitbots** and **Fasteroutcomes**, and the demands of enterprise platforms at **IBM** and **Publicis Sapient**.
-
-That range shapes how I work: understand the problem, connect the layers, and build toward a product people can depend on. My canvas spans **frontend experiences, backend architecture, retrieval systems, and AI workflows**.
-
-> **My engineering ambition: make powerful systems feel effortless to use.**
-
-🎓 **University Gold Medalist · Master's in Computer Application**
-
-## 🧠 Current mission: turn legal complexity into clarity
-
-At **Fasteroutcomes**, I'm working on a Legal AI platform that brings together document processing, retrieval, and language models to support legal work.
-
-| Engineering focus | Product purpose |
-| :--- | :--- |
-| **Document intelligence** | Turn large, complex legal documents into information people can work with. |
-| **Retrieval-augmented generation** | Connect language models with relevant legal information using search and vector databases. |
-| **AI workflows** | Bring models, retrieval, and orchestration together to support research and case preparation. |
-| **Full-stack product development** | Connect the user interface, application services, and AI systems into a cohesive product. |
-
-**Working stack:** React · Next.js · Python · LangChain · LangGraph · OpenRouter · Elasticsearch · Vector databases · Temporal · n8n · AWS
-
-## 🛠️ The stack behind the work
-
-<p align="left">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<p align="center">
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/profile-header-mobile.svg" />
+  <img src="./assets/profile-header.svg" width="100%" alt="Mehul Jariwala — Full-stack engineering and applied AI. I build the product and the systems behind it." />
+  </picture>
 </p>
 
-| Area | Technologies |
-| :--- | :--- |
-| **Languages** | TypeScript, JavaScript, Python, Java |
-| **Frontend** | React, Next.js |
-| **Backend** | Node.js, FastAPI, NestJS |
-| **AI & ML** | LangChain, LangGraph, OpenAI, OpenRouter, Hugging Face, TensorFlow, custom ML models |
-| **Search & retrieval** | RAG, Elasticsearch, vector databases |
-| **Workflows & automation** | Temporal, n8n |
-| **Cloud & infrastructure** | AWS, Docker, Kubernetes |
+<p align="center">
+  <a href="https://mehuljari.in"><strong>Portfolio &amp; case studies</strong></a> ·
+  <a href="https://www.linkedin.com/in/mehul-jariwala-352a01132/"><strong>LinkedIn</strong></a> ·
+  <a href="mailto:mjariwala98@gmail.com"><strong>Email</strong></a> ·
+  <a href="https://medium.com/@mjariwala98"><strong>Writing</strong></a>
+</p>
 
-## 🚀 From founding teams to enterprise engineering
+## I build the product and the systems behind it.
 
-| Company | Role | Timeline |
-| :--- | :--- | :--- |
-| **[Fasteroutcomes](https://fasteroutcomes.com)** | Lead Full Stack + AI/ML — Founding Engineer | Aug 2025–Present |
-| **IBM** | Full Stack Experience Engineer | Dec 2024–Aug 2025 |
-| **Publicis Sapient** | Senior Full Stack Experience Engineer | Apr 2022–Dec 2024 |
-| **Fitbots (OKRs)** | Senior Software Engineer — Founding Frontend Engineer | Sep 2018–Apr 2022 |
+I'm a **full-stack and AI engineer** with experience spanning founding teams and enterprise platforms. I build across the whole product: the interface people use, the services behind it, and the retrieval and agent workflows that connect it to AI.
 
-## 🤝 Have a hard problem worth solving?
+My work spans **Legal AI at Fasteroutcomes, enterprise engineering at IBM and Publicis Sapient, and founding frontend engineering at Fitbots**. Based in Bengaluru. MCA, university gold medalist.
 
-I'm interested in conversations about **AI products, full-stack systems, and building from zero** — especially where complex information needs to become a clear, useful experience.
+I care about what happens after the happy path: whether an agent can resume, whether a stream survives interruption, and whether an evaluation actually catches a regression.
 
-**Bring the problem. Let's explore what we can build.**
+## Selected builds
 
-- 🌐 **Explore:** [mehuljari.in](https://mehuljari.in)
-- 💬 **Connect:** [LinkedIn](https://www.linkedin.com/in/mehul-jariwala-352a01132/)
-- ✍️ **Read:** [Medium](https://medium.com/@mjariwala98)
-- 💻 **Browse:** [GitHub repositories](https://github.com/mehuljariwala?tab=repositories)
-- 🧩 **Practice:** [LeetCode](https://leetcode.com/u/mjariwala98/)
+Six places to explore how I approach those problems. The AI repositories include local examples, tests, and design notes; their READMEs describe provider support and limitations.
 
----
+### 01 / Document experiences in React
 
-<div align="center">
+**[react-doc-viewer](https://github.com/mehuljariwala/react-doc-viewer)** · TypeScript / React  
+A document viewer I maintain and extend from `@cyntler/react-doc-viewer`: PDF search and annotations, local DOCX/XLSX previews, and extensible renderers.  
+[Live demo](https://mehuljariwala.github.io/react-doc-viewer/) · [npm package](https://www.npmjs.com/package/@iamjariwala/react-doc-viewer)
 
-**Build with purpose. Engineer with depth. Make it feel simple. ✨**
+### 02 / Retrieval with evidence
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F172A,50:7C3AED,100:0891B2&amp;height=110&amp;section=footer" alt="Purple and cyan wave footer" />
+**[agentic-rag-platform](https://github.com/mehuljariwala/agentic-rag-platform)** · Python / FastAPI  
+Hybrid retrieval, rank fusion, reranking, citation tracing, and retrieval retries. Includes reproducible evaluations and an honest account of where the offline approach falls short.
 
-</div>
+### 03 / A gateway between applications and models
+
+**[llm-gateway-router](https://github.com/mehuljariwala/llm-gateway-router)** · Go  
+Model routing, provider failover, circuit breakers, caching, tenant rate limits, and usage accounting in one gateway.
+
+### 04 / Agents that can pick up where they stopped
+
+**[agent-orchestrator](https://github.com/mehuljariwala/agent-orchestrator)** · Python  
+Agent workflows built around durable event logs, replay, cross-process resume, human approval, and budget controls.
+
+### 05 / Evaluation that informs a release
+
+**[llm-eval-harness](https://github.com/mehuljariwala/llm-eval-harness)** · Python  
+LLM evaluation with confidence intervals, paired comparisons, deterministic graders, and configurable regression gates for CI.
+
+### 06 / Voice interactions that handle interruption
+
+**[realtime-voice-agent](https://github.com/mehuljariwala/realtime-voice-agent)** · Python / asyncio  
+Streaming speech-to-text, model, and text-to-speech primitives. Interruption cancels generation and adjusts history to what the caller actually heard. Local demos use offline providers.
+
+**More frontend work:** [streaming-chat-ui](https://github.com/mehuljariwala/streaming-chat-ui) — TypeScript primitives for SSE parsing, partial tool calls, and streaming chat state.
+
+## Open source, beyond my own repositories
+
+Selected merged contributions:
+
+- **[Meta's Lexical](https://github.com/facebook/lexical/pull/9117)** — notify consumers when selection overlay rectangles are removed.
+- **[Elastic UI](https://github.com/elastic/eui/pull/9972)** — migrate `EuiSuperSelect` to a function component.
+- **[Prometheus Alertmanager](https://github.com/prometheus/alertmanager/pull/5505)** — improve PagerDuty v1 HTTP error classification.
+
+[Explore my merged pull requests →](https://github.com/search?q=author%3Amehuljariwala+is%3Amerged&type=pullrequests)
+
+## Experience I bring to a team
+
+- **Product ownership:** founding engineering experience across Legal AI and an employee OKR platform.
+- **Full-stack delivery:** React and Next.js interfaces, application services, document workflows, and enterprise integrations.
+- **Applied AI:** retrieval, orchestration, evaluation, and human review, with attention to failure modes and observability.
+
+<details>
+<summary><strong>My working toolkit</strong></summary>
+
+- **Languages:** TypeScript, JavaScript, Python, Go, Java
+- **Product & APIs:** React, Next.js, Node.js, FastAPI
+- **AI & retrieval:** LangGraph, LangChain, RAG, Elasticsearch, vector search
+- **Workflows & platforms:** Temporal, Kafka, Docker, Kubernetes, AWS
+- **Quality:** automated tests, evaluation suites, CI, and observability
+
+</details>
+
+## Notes from building
+
+- [How I would test an AI agent before letting customers use it](https://mehuljari.in/blog/ai-agent-evaluation-release-checklist/) — evaluation around outcomes, forbidden actions, and realistic failures.
+- [Your AI agent timed out. Did it still send the refund?](https://mehuljari.in/blog/ai-agent-retries-without-duplicate-actions/) — retries, durable state, and duplicate prevention.
+
+## Let's build something useful.
+
+Hiring for **senior full-stack, applied AI, or agentic systems engineering**? I'd be glad to discuss the product, the technical challenges, and where I could contribute.
+
+**[Start a conversation on LinkedIn](https://www.linkedin.com/in/mehul-jariwala-352a01132/)** · **[Email me](mailto:mjariwala98@gmail.com)** · **[Read the case studies](https://mehuljari.in)**
