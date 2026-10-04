@@ -1,98 +1,88 @@
 <p align="center">
   <picture>
-    <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="./assets/profile-header-mobile.svg" />
-    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/profile-header.svg" />
-    <source media="(max-width: 600px)" srcset="./assets/profile-header-mobile-animated.svg" />
-  <img src="./assets/profile-header-animated.svg" width="100%" alt="Mehul Jariwala — Full-stack engineering and applied AI. I build the product and the systems behind it." />
+    <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="./assets/profile-header-mobile.svg?v=3" />
+    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/profile-header.svg?v=3" />
+    <source media="(max-width: 600px)" srcset="./assets/profile-header-mobile-animated.svg?v=3" />
+    <img src="./assets/profile-header-animated.svg?v=3" width="100%" alt="Mehul Jariwala — Full-stack developer and AI engineer. Web apps, AI tools, and useful software." />
   </picture>
 </p>
 
 <p align="center">
-  <a href="https://mehuljari.in"><strong>Portfolio &amp; case studies</strong></a> ·
-  <a href="https://www.linkedin.com/in/mehul-jariwala-352a01132/"><strong>LinkedIn</strong></a> ·
-  <a href="mailto:mjariwala98@gmail.com"><strong>Email</strong></a> ·
-  <a href="https://medium.com/@mjariwala98"><strong>Writing</strong></a>
+  <a href="https://mehuljari.in"><strong>Portfolio</strong></a> &nbsp; · &nbsp;
+  <a href="https://www.linkedin.com/in/mehul-jariwala-352a01132/"><strong>LinkedIn</strong></a> &nbsp; · &nbsp;
+  <a href="mailto:mjariwala98@gmail.com"><strong>Email</strong></a>
 </p>
 
-## I build the product and the systems behind it.
+## Hi, I'm Mehul.
 
-I'm a **full-stack and AI engineer** with experience spanning founding teams and enterprise platforms. I build across the whole product: the interface people use, the services behind it, and the retrieval and agent workflows that connect it to AI.
+I build **web apps, AI assistants, and tools for developers**.
 
-My work spans **Legal AI at Fasteroutcomes, enterprise engineering at IBM and Publicis Sapient, and founding frontend engineering at Fitbots**. Based in Bengaluru. MCA, university gold medalist.
+**Experience:** Fasteroutcomes · IBM · Publicis Sapient · Fitbots  
+**Based in:** Bengaluru, India · MCA gold medalist
 
-I care about what happens after the happy path: whether an agent can resume, whether a stream survives interruption, and whether an evaluation actually catches a regression.
+## A few things I've worked on
 
-## Selected builds
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Document viewer</h3>
+      <p>A React library I maintain for viewing PDFs, Word, Excel, and more.</p>
+      <p><code>React</code> <code>TypeScript</code></p>
+      <p><a href="https://mehuljariwala.github.io/react-doc-viewer/"><strong>Try the demo →</strong></a> &nbsp; <a href="https://github.com/mehuljariwala/react-doc-viewer">Code</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>AI document search</h3>
+      <p>Find answers in documents, with links back to the source.</p>
+      <p><code>Python</code> <code>FastAPI</code></p>
+      <p><a href="https://github.com/mehuljariwala/agentic-rag-platform"><strong>Explore the project →</strong></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>AI model router</h3>
+      <p>Connect to different AI providers, with fallback options and cost tracking.</p>
+      <p><code>Go</code></p>
+      <p><a href="https://github.com/mehuljariwala/llm-gateway-router"><strong>Explore the project →</strong></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>AI task runner</h3>
+      <p>Pause AI tasks for approval and resume from saved progress.</p>
+      <p><code>Python</code></p>
+      <p><a href="https://github.com/mehuljariwala/agent-orchestrator"><strong>Explore the project →</strong></a></p>
+    </td>
+  </tr>
+</table>
 
-Six places to explore how I approach those problems. The AI repositories include local examples, tests, and design notes; their READMEs describe provider support and limitations.
+## Open-source contributions
 
-### 01 / Document experiences in React
-
-**[react-doc-viewer](https://github.com/mehuljariwala/react-doc-viewer)** · TypeScript / React  
-A document viewer I maintain and extend from `@cyntler/react-doc-viewer`: PDF search and annotations, local DOCX/XLSX previews, and extensible renderers.  
-[Live demo](https://mehuljariwala.github.io/react-doc-viewer/) · [npm package](https://www.npmjs.com/package/@iamjariwala/react-doc-viewer)
-
-### 02 / Retrieval with evidence
-
-**[agentic-rag-platform](https://github.com/mehuljariwala/agentic-rag-platform)** · Python / FastAPI  
-Hybrid retrieval, rank fusion, reranking, citation tracing, and retrieval retries. Includes reproducible evaluations and an honest account of where the offline approach falls short.
-
-### 03 / A gateway between applications and models
-
-**[llm-gateway-router](https://github.com/mehuljariwala/llm-gateway-router)** · Go  
-Model routing, provider failover, circuit breakers, caching, tenant rate limits, and usage accounting in one gateway.
-
-### 04 / Agents that can pick up where they stopped
-
-**[agent-orchestrator](https://github.com/mehuljariwala/agent-orchestrator)** · Python  
-Agent workflows built around durable event logs, replay, cross-process resume, human approval, and budget controls.
-
-### 05 / Evaluation that informs a release
-
-**[llm-eval-harness](https://github.com/mehuljariwala/llm-eval-harness)** · Python  
-LLM evaluation with confidence intervals, paired comparisons, deterministic graders, and configurable regression gates for CI.
-
-### 06 / Voice interactions that handle interruption
-
-**[realtime-voice-agent](https://github.com/mehuljariwala/realtime-voice-agent)** · Python / asyncio  
-Streaming speech-to-text, model, and text-to-speech primitives. Interruption cancels generation and adjusts history to what the caller actually heard. Local demos use offline providers.
-
-**More frontend work:** [streaming-chat-ui](https://github.com/mehuljariwala/streaming-chat-ui) — TypeScript primitives for SSE parsing, partial tool calls, and streaming chat state.
-
-## Open source, beyond my own repositories
-
-Selected merged contributions:
-
-- **[Meta's Lexical](https://github.com/facebook/lexical/pull/9117)** — notify consumers when selection overlay rectangles are removed.
-- **[Elastic UI](https://github.com/elastic/eui/pull/9972)** — migrate `EuiSuperSelect` to a function component.
-- **[Prometheus Alertmanager](https://github.com/prometheus/alertmanager/pull/5505)** — improve PagerDuty v1 HTTP error classification.
-
-[Explore my merged pull requests →](https://github.com/search?q=author%3Amehuljariwala+is%3Amerged&type=pullrequests)
-
-## Experience I bring to a team
-
-- **Product ownership:** founding engineering experience across Legal AI and an employee OKR platform.
-- **Full-stack delivery:** React and Next.js interfaces, application services, document workflows, and enterprise integrations.
-- **Applied AI:** retrieval, orchestration, evaluation, and human review, with attention to failure modes and observability.
+My changes have been merged into **[Meta's Lexical](https://github.com/facebook/lexical/pull/9117)**, **[Elastic UI](https://github.com/elastic/eui/pull/9972)**, and **[Prometheus](https://github.com/prometheus/alertmanager/pull/5505)**.
 
 <details>
-<summary><strong>My working toolkit</strong></summary>
+<summary><strong>More about my work, tools &amp; writing</strong></summary>
 
-- **Languages:** TypeScript, JavaScript, Python, Go, Java
-- **Product & APIs:** React, Next.js, Node.js, FastAPI
-- **AI & retrieval:** LangGraph, LangChain, RAG, Elasticsearch, vector search
-- **Workflows & platforms:** Temporal, Kafka, Docker, Kubernetes, AWS
-- **Quality:** automated tests, evaluation suites, CI, and observability
+### More projects
+
+- [AI response testing](https://github.com/mehuljariwala/llm-eval-harness) — compare answers and check for regressions.
+- [Voice AI](https://github.com/mehuljariwala/realtime-voice-agent) — explore voice conversations and interruption handling.
+- [Streaming chat](https://github.com/mehuljariwala/streaming-chat-ui) — display AI responses as they arrive.
+
+The AI projects include local examples; see each README for setup and limitations. The document viewer extends [@cyntler/react-doc-viewer](https://github.com/cyntler/react-doc-viewer).
+
+### Tools I work with
+
+**Web:** React, Next.js, TypeScript, Node.js  
+**AI & backend:** Python, Go, FastAPI, LangGraph, LangChain  
+**Data & cloud:** Elasticsearch, Temporal, Kafka, Docker, Kubernetes, AWS
+
+### Writing
+
+- [How I'd test AI agents](https://mehuljari.in/blog/ai-agent-evaluation-release-checklist/)
+- [How to prevent duplicate actions when an AI task retries](https://mehuljari.in/blog/ai-agent-retries-without-duplicate-actions/)
+
+[All merged contributions →](https://github.com/search?q=author%3Amehuljariwala+is%3Amerged&type=pullrequests) · [More articles →](https://medium.com/@mjariwala98)
 
 </details>
 
-## Notes from building
+---
 
-- [How I would test an AI agent before letting customers use it](https://mehuljari.in/blog/ai-agent-evaluation-release-checklist/) — evaluation around outcomes, forbidden actions, and realistic failures.
-- [Your AI agent timed out. Did it still send the refund?](https://mehuljari.in/blog/ai-agent-retries-without-duplicate-actions/) — retries, durable state, and duplicate prevention.
-
-## Let's build something useful.
-
-Hiring for **senior full-stack, applied AI, or agentic systems engineering**? I'd be glad to discuss the product, the technical challenges, and where I could contribute.
-
-**[Start a conversation on LinkedIn](https://www.linkedin.com/in/mehul-jariwala-352a01132/)** · **[Email me](mailto:mjariwala98@gmail.com)** · **[Read the case studies](https://mehuljari.in)**
+**Hiring a senior full-stack or AI engineer? [Let's talk →](https://www.linkedin.com/in/mehul-jariwala-352a01132/)**
